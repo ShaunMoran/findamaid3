@@ -1,0 +1,51 @@
+body {
+    background-image: url("../img//backdrop1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    font-family: Segoe UI;
+    text-decoration: none;
+   
+   }
+   
+  .fam {
+    position: fixed;
+    top: 0px;
+    left: 15px;
+    color: rgb(255, 115, 0);
+    font-size: 110%;
+     
+  }
+     
+  .links {
+     position: fixed;
+     left: 130px;
+     top: 75px;
+     font-family: 'Courgette', cursive;
+     font-size: 20px;
+     text-decoration: none;
+     color: rgb(0, 0, 161)
+  }   
+  
+     
+  .topnav {
+    position: fixed;
+    right: 275px;
+    top: 22px;
+  }
+     
+  .signin {
+    position: fixed;
+    right: 150px;
+    color: black;
+    top: 9px;
+       
+  }
+
+  .container {
+      position: fixed;
+      top: 250px;
+      font-size: large;
+      font-family: Segoe UI;
+      color: black;  
+
+  }

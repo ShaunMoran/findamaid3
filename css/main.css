@@ -1,0 +1,86 @@
+body {
+  background-image: url("../img//backdrop1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  font-family: Segoe UI;
+  text-decoration: none;
+ 
+ }
+ 
+.fam {
+  position: fixed;
+  top: 0px;
+  left: 15px;
+  color: rgb(255, 115, 0);
+  font-size: 110%;
+   
+}
+   
+.links {
+   position: fixed;
+   left: 130px;
+   top: 75px;
+   font-family: 'Courgette', cursive;
+   font-size: 20px;
+   text-decoration: none;
+   color: rgb(0, 0, 161)
+}   
+
+   
+.topnav {
+  position: fixed;
+  right: 275px;
+  top: 22px;
+}
+   
+.signin {
+  position: fixed;
+  right: 150px;
+  color: black;
+  top: 9px;
+     
+}
+   
+.motto {
+  position: fixed;
+  font-size: 40px;
+  top: 200px;
+  left: 150px;
+  font-family: Segoe UI;
+  font-size: xx-large;
+  color: rgb(24, 0, 161);
+     
+     
+}
+   
+.maid {
+  position: fixed;
+  left: 100px;
+  top: 475px;
+  border: 3px;
+  border-block-color: black;
+  font-size: 25px;
+  color: black;
+     
+}  
+
+  
+.owner {
+  position: fixed;
+  right: 850px;
+  top: 475px;  
+  font-size: 25px;
+     
+}
+   
+.signupform {
+  position: fixed;
+  top: 300px;
+
+}
+
+
+
+  
+   
+   
